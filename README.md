@@ -1,0 +1,3 @@
+My personal work to improve and use a simulation of an aircraft carrier to study what parameters can be optimized in order to ensure safer and faster aircraft departure. My work included reworking how the simulator saved its data and interfaced with the setup GUI. I then created a series of scripts to automate data collection and analysis.
+
+Here is a link to the work this is building off of: https://hal.pratt.duke.edu/sites/hal.pratt.duke.edu/files/u10/thesis_final_April22.pdf
