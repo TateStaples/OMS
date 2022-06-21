@@ -1,0 +1,90 @@
+{
+  "HoldbackBarTime": {
+    "Mean": 90.0,
+    "SD": 30.0,
+    "Range": 3.0,
+    "Minimum": 30.0,
+    "Maximum": 40.0,
+    "MinOverride": true,
+    "MaxOverride": false,
+    "Title": "Holdback Bar Time",
+    "Distribution": "Gaussian"
+  },
+  "WeightCheckTime": {
+    "Mean": 15.0,
+    "SD": 5.0,
+    "Range": 3.0,
+    "Minimum": 5.0,
+    "Maximum": 20.0,
+    "MinOverride": true,
+    "MaxOverride": false,
+    "Title": "Weight Check Time",
+    "Distribution": "Gaussian"
+  },
+  "UnchockTime": {
+    "Mean": 40.0,
+    "SD": 10.0,
+    "Range": 3.0,
+    "Minimum": 20.0,
+    "Maximum": 50.0,
+    "MinOverride": true,
+    "MaxOverride": false,
+    "Title": "Unchock Time",
+    "Distribution": "Gaussian"
+  },
+  "OrdnanceArmTime": {
+    "Mean": 30.0,
+    "SD": 10.0,
+    "Range": 3.0,
+    "Minimum": 10.0,
+    "Maximum": 40.0,
+    "MinOverride": true,
+    "MaxOverride": false,
+    "Title": "Ordnace Arm. Time",
+    "Distribution": "Gaussian"
+  },
+  "AircraftMaintenanceTime": {
+    "Mean": 900,
+    "SD": 150,
+    "Range": 3.0,
+    "Minimum": 450,
+    "Maximum": 1350,
+    "MinOverride": false,
+    "MaxOverride": false,
+    "Title": "AC Repair Time",
+    "Distribution": "Lognormal"
+  },
+  "CatapultMaintenanceTime": {
+    "Mean": 3500.0,
+    "SD": 700.0,
+    "Range": 3.0,
+    "Minimum": 770.0,
+    "Maximum": 6230.0,
+    "MinOverride": false,
+    "MaxOverride": false,
+    "Title": "CAT Repair Time",
+    "Distribution": "Gaussian"
+  },
+  "SlipTripFallTime": {
+    "Mean": 40440.0,
+    "SD": 900.0,
+    "Range": 5.9,
+    "Minimum": 0.0,
+    "Maximum": 238680.0,
+    "MinOverride": false,
+    "MaxOverride": true,
+    "Title": "Slip Trip Fall Time",
+    "Distribution": "Exponential"
+  },
+  "SlipTripFallDuration": {
+    "Mean": 60.0,
+    "SD": 100.0,
+    "Range": 5.9,
+    "Minimum": 0.0,
+    "Maximum": 374.0,
+    "MinOverride": false,
+    "MaxOverride": true,
+    "Title": "Slip Trip Fall Duration",
+    "Distribution": "Exponential"
+  }
+}
